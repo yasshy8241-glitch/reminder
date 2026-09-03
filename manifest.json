@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "LogLoom",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "LogLoom",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "タスク管理アプリ"
+}
